@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CockiesAndSession", "CockiesAndSession\CockiesAndSession.csproj", "{830FEB15-22E3-4673-9CBE-AA02EDCD2475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{8EB34A6E-DDC6-4400-8E4D-0B97D3510B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{830FEB15-22E3-4673-9CBE-AA02EDCD2475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830FEB15-22E3-4673-9CBE-AA02EDCD2475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830FEB15-22E3-4673-9CBE-AA02EDCD2475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830FEB15-22E3-4673-9CBE-AA02EDCD2475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB34A6E-DDC6-4400-8E4D-0B97D3510B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB34A6E-DDC6-4400-8E4D-0B97D3510B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB34A6E-DDC6-4400-8E4D-0B97D3510B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB34A6E-DDC6-4400-8E4D-0B97D3510B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D823EAF1-2C47-4CE8-8C39-B1FC141F4EEA}
+	EndGlobalSection
+EndGlobal
